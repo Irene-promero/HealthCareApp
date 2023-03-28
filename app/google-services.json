@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561954483608",
+    "project_id": "misprimerospasos-ee50a",
+    "storage_bucket": "misprimerospasos-ee50a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561954483608:android:75b32553b18c2d63e28fed",
+        "android_client_info": {
+          "package_name": "com.example.daoactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561954483608-6e3t146u206mldjk3gvpi0kuljd61f9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnAoBwf3nVenOdooAA5j5y20g7MC8k79o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561954483608-6e3t146u206mldjk3gvpi0kuljd61f9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
