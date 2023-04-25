@@ -1,4 +1,4 @@
-package com.irene.healthcareapp
+package com.irene.apphealthcare
 
 import org.junit.Test
 

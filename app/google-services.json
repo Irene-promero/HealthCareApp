@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "561954483608",
-    "project_id": "misprimerospasos-ee50a",
-    "storage_bucket": "misprimerospasos-ee50a.appspot.com"
+    "project_number": "481148222918",
+    "project_id": "healthcareapp-irene-p",
+    "storage_bucket": "healthcareapp-irene-p.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:561954483608:android:75b32553b18c2d63e28fed",
+        "mobilesdk_app_id": "1:481148222918:android:8e80bea2fc4798b8a706c7",
         "android_client_info": {
-          "package_name": "com.example.daoactivity"
+          "package_name": "com.irene.apphealthcare"
         }
       },
       "oauth_client": [
         {
-          "client_id": "561954483608-6e3t146u206mldjk3gvpi0kuljd61f9q.apps.googleusercontent.com",
+          "client_id": "481148222918-95qtvso3l9p6a1ojqkd3qcthm3btig2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.irene.apphealthcare",
+            "certificate_hash": "d52b746dc9123f7de7c10289278a00be3298c0ed"
+          }
+        },
+        {
+          "client_id": "481148222918-29q3vrpn4o03poqgelicmn5scd829l0n.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDnAoBwf3nVenOdooAA5j5y20g7MC8k79o"
+          "current_key": "AIzaSyCSnG7LLghRFLIH5zHQPJ0xAZYiqyRsOPo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "561954483608-6e3t146u206mldjk3gvpi0kuljd61f9q.apps.googleusercontent.com",
+              "client_id": "481148222918-29q3vrpn4o03poqgelicmn5scd829l0n.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

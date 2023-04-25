@@ -1,4 +1,6 @@
 package com.irene.apphealthcare
 
-class Usuario {
-}
+data class Usuario (val nombre:String = "Default" ,
+                    val edad:String = "Default",
+                    val sexo: String = "Default",
+                    val dependencia:String = "Default")
