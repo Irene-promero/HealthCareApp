@@ -7,7 +7,7 @@ import com.google.firebase.firestore.FirebaseFirestore
 class Repo {
     fun getUserData():LiveData<MutableList<Usuario>>{
        val mutableData = MutableLiveData<MutableList<Usuario>>()
-        FirebaseFirestore.getInstance().collection("Usuarios").get().addOnSuccessListener {resultado ->
+        FirebaseFirestore.getInstance().collection("Pacientes").get().addOnSuccessListener {resultado ->
             val listData:MutableList<Usuario> = mutableListOf<Usuario>()
             for(document in resultado){
                 val nombre = document.getString("nombre")

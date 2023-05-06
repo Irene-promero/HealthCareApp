@@ -15,6 +15,8 @@
             android:name=".MainActivity"
             android:exported="false" />
         <activity
+            android:name=".Formulario"/>
+        <activity
             android:name=".AuthActivity"
             android:exported="true">
             <intent-filter>

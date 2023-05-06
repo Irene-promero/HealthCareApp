@@ -6,6 +6,7 @@ import androidx.lifecycle.ViewModel
 
 class MainViewModel: ViewModel ()  {
     private val repo = Repo()
+
     fun fetchUserData ():LiveData<MutableList<Usuario>>{
        val mutableData = MutableLiveData<MutableList<Usuario>>()
         repo.getUserData().observeForever{Userlist->
